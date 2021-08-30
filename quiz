@@ -1,0 +1,26 @@
+<h1> Anime OPs that you like most</h1>
+<main>
+<p> There,you need to select favourite anime OPs </p>
+
+<form action="https://fuck-yourself">
+<label for="Kaikai Kitan"><input id="Kaikai kitan" type="checkbox" name="Openings"> Kaikai Kitan</label>
+<label for="Unravel"><input id="Unravel" type="checkbox" name="Openings"> Unravel</label>
+<label for="Mirror Heart"><input id="Mirror Heart" type="checkbox" name="Openings"> Mirror Heart</label>
+<label for="Gurenge"><input id="Gurenge" type="checkbox" name="Openings"> Gurenge</label>
+<label for="Uso no Hibana"><input id="Uso no Hibana" type="checkbox" name="Openings"> Uso no Hibana</label>
+<label for="Bravely You"><input id="Bravely You"
+ type="checkbox" name="Openings"> Bravely You</label>
+ <label for="Inferno"><input id="Inferno" type="checkbox" name="Openings"> Inferno</label>
+</form>
+
+ <h2> The name of OP from Jujutsu Kaisen</h2>
+ <p> There,you have to choose the right Opening's name from anime Jujutsu Kaisen (Magic Battle) </p>
+
+ <form action="https://fuck-yourself">
+ 	<label for="Unravel"><input id="Unravel" type="radio" name="Right Opening"> Unravel</label>
+ 	<label for="DISH"><input id="DISH" type="radio" name="Right Opening"> Dish</label>
+ 	<label for="Kaikai Kitan"><input id="Kaikai Kitan" type="radio" name="Right Opening"> Kaikai Kitan</label>
+ 	<button type="submit" required> Submit your choice</button>
+ </form>
+
+</main>
